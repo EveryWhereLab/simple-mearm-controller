@@ -1,0 +1,1 @@
+This Arduino firmware executes commands from host for calibrating angle offsets in a specific posture of meArm. The code was tested on a STM32F103 blue pill board. You need to modify the definition of pins in the code if you want to use this code on other boards.
